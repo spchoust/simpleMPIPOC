@@ -4,6 +4,7 @@
   "parameters": {
     "vmPrefix": {
       "type": "string",
+      "defaultValue": "NexSC",
       "metadata": {
         "description": "Base string for naming resources (max length of 8)"
       },
